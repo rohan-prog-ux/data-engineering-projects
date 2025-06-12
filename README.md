@@ -1,17 +1,18 @@
-# data-engineering-projects
-Collection of ETL, Data Pipelines, and Cloud projects using Python, SQL, Spark, Airflow, AWS, etc.
-
-
 # Data Engineering Projects
 
-A collection of real-world Data Engineering projects showcasing ETL pipelines, cloud integrations, data processing frameworks, and orchestration tools.
+A collection of real-world Data Engineering projects showcasing ETL pipelines, cloud integrations, data processing frameworks, and orchestration tools using Python, SQL, Spark, Airflow, AWS, and more.
 
 ---
 
+##  Project Overview
 
-## 🚀 Project Overview
+This repository contains multiple real-world Data Engineering projects designed to showcase my practical skills across:
 
-This repository contains multiple real-world Data Engineering projects designed to showcase my practical skills across ETL pipelines, data orchestration, distributed processing, cloud storage, and SQL data transformations.
+- ETL pipelines
+- Data orchestration
+- Distributed processing
+- Cloud storage
+- SQL data transformations
 
 Each folder contains independent mini-projects focusing on different areas of Data Engineering:
 
@@ -22,14 +23,11 @@ Each folder contains independent mini-projects focusing on different areas of Da
 - **SQL Queries:** Writing and optimizing complex SQL queries for reporting and data transformations.
 - **Dockerization:** Packaging pipelines inside Docker containers for reproducible deployment.
 
-The projects are designed to mimic real-world data engineering tasks and workflows used in industry.
-
 > This repository will be continuously updated as I explore more advanced topics, cloud architectures, and large-scale data processing systems.
 
+---
 
-
-
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python**: Data processing, ETL pipelines, API integrations
 - **SQL**: Data extraction, transformation, and query optimization
@@ -44,7 +42,6 @@ The projects are designed to mimic real-world data engineering tasks and workflo
 ## 📂 Project Structure
 
 ```bash
-
 data-engineering-projects/
 │
 ├── etl/               # ETL pipelines written in Python
@@ -54,4 +51,3 @@ data-engineering-projects/
 ├── sql/               # SQL queries and transformations
 ├── docker/            # Dockerfiles for pipeline deployments
 └── README.md          # Project documentation
-
